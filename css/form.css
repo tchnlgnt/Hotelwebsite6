@@ -1,0 +1,55 @@
+#register{
+    padding-top: 150px;
+}
+
+#login-page{
+    padding-top: 150px;
+}
+
+#otp-form{
+    padding-top: 200px;
+}
+
+#otp-form p{
+    font-size: small;
+    margin-bottom: 10px;
+}
+
+
+#forgot-password{
+    padding-top: 200px;
+}
+
+#forgot-password p{
+    font-size: small;
+    margin-bottom: 10px;
+}
+
+
+
+#new-password{
+    padding-top: 200px;
+}
+
+
+#reset-code{
+    padding-top: 200px;
+}
+
+#reset-code p{
+    font-size: small;
+    margin-bottom: 10px;
+}
+
+
+#password-changed{
+    padding-top: 200px;
+}
+
+
+.validate{
+    color:rgb(255, 94, 0);
+    font-size: small;
+    margin-bottom: 10px;
+    margin-top: auto;
+}

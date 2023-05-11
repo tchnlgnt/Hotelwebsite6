@@ -1,2 +1,2 @@
-# This is our website on Hotel Reservation by Technologent
+# This is our website on Hotel Reservation 
 
